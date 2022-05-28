@@ -2074,7 +2074,7 @@ hr {
   stroke-linecap: round;
   stroke-dasharray: 0 999;
   -webkit-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .cs-flying_img_wrap {

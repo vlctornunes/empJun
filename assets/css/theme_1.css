@@ -561,13 +561,13 @@ a:hover,
   color: #2ecbe9;
 }
 
-.cs-gradient_bg_1 {
-  background: linear-gradient(45deg, #fff6f5 0%, rgba(255, 246, 245, 0) 100%);
+/*.cs-gradient_bg_1 {
+  background: linear-gradient(45deg, #fff6f5 0%, rgba(46, 203, 233, 0) 100%);
 }
 
 .cs-gradient_bg_2 {
-  background: linear-gradient(45deg, rgba(255, 246, 245, 0) 0%, #fff6f5 100%);
-}
+  background: linear-gradient(45deg, rgba(46, 203, 233, 0) 0%, #fff6f5 100%);
+}*/
 
 .cs-btn.cs-style6.cs-accent_bg .cs-btn_icon {
   background-color: rgba(255, 255, 255, 0.25);
