@@ -7315,7 +7315,7 @@ hr {
 }
 
 .cs-site_branding img {
-  height: 45px;
+  height: 150px;
 }
 
 @media screen and (min-width: 1200px) {
@@ -7545,7 +7545,7 @@ li.menu-item-has-children
   }
   .cs-site_header.cs-style3 .cs-main_header_in,
   .cs-site_header.cs-style3.cs-type1 .cs-main_header_in {
-    height: 90px;
+    height: 100px;
   }
   .cs-site_header.cs-style3 .cs-hamburger,
   .cs-site_header.cs-style3.cs-type1 .cs-hamburger {
@@ -7846,7 +7846,7 @@ li.menu-item-has-children
     width: 28px;
   }
   .cs-site_branding img {
-    height: 35px;
+    height: 120px;
   }
   .cs-site_header.cs-style1.cs-type2,
   .cs-site_header.cs-style1.cs-type4 {
@@ -7992,7 +7992,7 @@ li.menu-item-has-children
     margin-right: 0;
   }
   .cs-site_branding img {
-    height: 32px;
+    height: 120px;
   }
   .cs-site_header.cs-style1 .cs-toolbox > *:not(:first-child) {
     margin-left: 25px;
